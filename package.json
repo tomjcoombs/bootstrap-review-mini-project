@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.0.0",
+    "bootstrap-icons": "^1.11.3",
+    "sass": "^1.71.1"
+  },
+  "name": "pricing-cards",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "sass:build": "sass --no-source-map sass/style.scss css/style.css "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
